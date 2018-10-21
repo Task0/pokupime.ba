@@ -1,7 +1,7 @@
 {
   "name": "pokupime",
   "version": "1.0.0",
-  "description": "",
+  "description": "[New Age](http://startbootstrap.com/template-overviews/new-age/) is a web app landing page theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,5 +18,6 @@
   "homepage": "https://github.com/Task0/pokupime.ba#readme",
   "dependencies": {
     "nodemon": "^1.18.4"
-  }
+  },
+  "devDependencies": {}
 }
